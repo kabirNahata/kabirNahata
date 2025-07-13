@@ -1,6 +1,6 @@
 # Hi, I'm Kabir✨
 
-I'm learning Data Science<br/>
+Data & Code Apprentice<br/>
 i post my achievements on [linkedln](https://www.linkedin.com/in/kabirnahata/)
 
 

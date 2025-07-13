@@ -1,7 +1,7 @@
 # Hi, I'm Kabir✨
 
 Data & Code Apprentice<br/>
-i post my achievements on [linkedln](https://www.linkedin.com/in/kabirnahata/)
+I post my achievements on [linkedln](https://www.linkedin.com/in/kabirnahata/)
 
 
 ## 🌐 Socials:

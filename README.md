@@ -1,6 +1,6 @@
 # Hi, I'm Kabir✨
 
-Data & Code Apprentice<br/>
+Curious Developer | From C & C++ to .NET & React<br/>
 I post my achievements on [linkedln](https://www.linkedin.com/in/kabirnahata/)
 
 
